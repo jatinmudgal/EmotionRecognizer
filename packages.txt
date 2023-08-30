@@ -1,0 +1,8 @@
+os
+librosa
+numpy
+pandas
+keras
+tensorflow.keras
+sklearn
+ffmpeg

@@ -1,0 +1,1 @@
+streamlit run "c:/Users/jatin/Desktop/SE Project/app.py"
