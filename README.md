@@ -1,7 +1,7 @@
 # EmotionRecognizer
 An emotion prediction project utilizing audio recordings and basic feature extraction. Trained an effective emotion classification model using Convolutional Neural Networks (CNN).
 
-## Requirements:
+## Requiremented Python Libs:
   - os
   - librosa
   - numpy
