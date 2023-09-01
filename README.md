@@ -15,4 +15,4 @@ An emotion prediction project utilizing audio recordings and basic feature extra
 ## How to run
 Open your CLI and cd to where the project is stored locally.
 Then type in:
-  - streamlit run "app.py"
+  - ```streamlit run "app.py"```
